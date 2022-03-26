@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3d/079vmUGLnWHq2+22TehGKkPc9kQbKP4un/N7H22Vpa8vmBIxpUoRPVsxv6Zo9lGi0EHeRCg60rq00v6Dwlw==",
+  "dgSpecHash": "0nGhi60SlafpoZl7WNRTv27HEkoT77UqvzCFnlWFZi8+klWbBTGHS/FMEYd9dKHcDx8n5SJhOnJyYDU++rve3g==",
   "success": true,
-  "projectFilePath": "C:\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
